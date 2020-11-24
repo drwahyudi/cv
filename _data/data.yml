@@ -7,43 +7,43 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Donny Rio Wahyudi
+    tagline: Geomorphologist
+    avatar: donny.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: donny.wahyudi@ed.ac.uk
+    #phone: 012 345 6789
+    website: drwahyudi.github.io #do not add http://
+    linkedin: Donny Rio Wahyudi
+    github: drwahyudi
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@donnyriow'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: B2
+
+      - idiom: Indonesian
         level: Native
 
-      - idiom: French
-        level: Professional
+    #  - idiom: Spanish
+    #    level: Professional
 
-      - idiom: Spanish
-        level: Professional
+   # interests:
+   #   - item: Climbing
+   #     link:
 
-    interests:
-      - item: Climbing
-        link:
+   #   - item: Snowboarding
+   #     link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+   #   - item: Cooking
+   #     link:
 
 career-profile:
     title: Career Profile
@@ -55,9 +55,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MPhil in Geology and Geophysics
+      university: University of Edinburgh
+      time: 2019 - present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +66,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: ST (BEng equivalent) in Geological engineering
+      university: Universitas Padjadjaran
+      time: 2009 - 2014
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,9 +78,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Hydrogeologist
+      time: 2016 - 2018
+      company: Indonesia's Ministry of Public Work and Housing, Jakarta
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,9 +93,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Team leader
+      time: 2016 - 2017
+      company: IndoGeo enterprise, Jakarta
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,9 +104,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Intern geologist
+      time: 2014 - 2014
+      company: Centre for Volcanology and Geological Hazard Mitigation, Bandung
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.

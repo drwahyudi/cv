@@ -92,19 +92,16 @@ projects:
       
     assignments:
       - title: East Natuna Basin Summary and atlas drawing with IndoGeo enterprise.
-        time: 2016-2017
         #link: "#hook"
-        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "2016-2017"
 
       - title: Hydrogeological study of the Bandung metropolitan area.
-        time: 2015-2016
         #link: "#"
-        #tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "2015-2016"
 
       - title: Manganese exploration with resistivity survey.
-        Time: 2013
         #link: "#"
-        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "2013"
 
       #- title: Atom
         #link: "#"
@@ -117,24 +114,28 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Article which has been published in a journal, proceedings and submitted work.
     papers:
-      - title: The Art of Computer Programming
+      - title: Progressive evolution of thrust fold topography in the frontal Himalaya
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Wahyudi, D.R., H.D. Sinclair, S.M. Mudd.
+        conference: "*Geomorphology* (submitted work)."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study Mt. Guntur, West Java, Indonesia"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Anugerah, O.W., M. Aufaristama, A. Lesmana, A. Apriansyah, D.R. Wahyudi
+        conference: "Indonesian Asscotioation of Geophysicists. Yogyakarta, Indonesia. (2016)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Kontrol  Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana
+        conference: "Journal of Environment and Geological Hazard Indonesia. Vol. 6, 229-240. (2015)"
+
+
+      - title: Control morphology to the landslide Induced Earthquake Case Study Padang Pariaman, Sumatra
+        link: "#"
+        authors: Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana
+        conference: "10th IAEG Conference. Kyoto, Japan. (2015)"
 
 skills:
     title: Skills &amp; Proficiency

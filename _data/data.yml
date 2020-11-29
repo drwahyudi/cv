@@ -117,27 +117,24 @@ projects:
 publications:
     title: Publications
     intro: |
-      Article which has been published in a journal, proceedings and submitted work.
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
     papers:
-      - title: Progressive evolution of thrust fold topography in the frontal Himalaya
-        link: 
-        authors: Wahyudi, D.R., H.D. Sinclair, S.M. Mudd.
-        conference: "*Geomorphology* (submitted work)."
-        
-      - title: Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study Mt. Guntur, West Java, Indonesia
-        link: 
-        authors: Anugerah, Oktya W., M. Aufaristama, Aditya Lesmana, Angga Apriansyah, Donny R. Wahyudi
-        conference: "Indonesian Asscotioation of Geophysicists. Yogyakarta, Indonesia. (2016)"
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-      - title: Kontrol  Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat
-        link: 
-        authors: Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana
-        conference: "Journal of Environment and Geological Hazard Indonesia. Vol. 6, 229-240. (2015)"
-        
-       -title: Control morphology to the landslide Induced Earthquake Case Study Padang Pariaman, Sumatra
-        link: 
-        authors: Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana
-        conference: "10th IAEG Conference. Kyoto, Japan. (2015)."
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency

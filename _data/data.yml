@@ -4,12 +4,12 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Donny Rio Wahyudi
     tagline: Geomorphologist
-    avatar: donny.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: cv.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: donny.wahyudi@ed.ac.uk
@@ -48,40 +48,38 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a geologist by training. I worked as a hydrogeologist for almost three years. I have an experience working on tectonic geomorphology as my undergraduate final project. Now I am a research master student working on tectonic geomorphology in the Himalaya. 
 education:
     - degree: MPhil in Geology and Geophysics
       university: University of Edinburgh
       time: 2019 - present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: ST (BEng equivalent) in Geological engineering
+        This is a two years master by research program. For my research topic, I am working on tectonic geomorphology of the Himalayan frontal thrust in Nepal. This includes the use of:
+          - Topographic analysis
+          - Optically Stimulated Luminescence (OSL) dating
+          - Fieldwork
+         as parts of my study.
+    - degree: ST (BEng equivalent) in Geology
       university: Universitas Padjadjaran
       time: 2009 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        An undergraduate degree which encompasses training in mineralogy, petrology, sedimentology, geomorphology, palaeontology, structural geology, geophysics, and environment, hydrogeology and geotechnical engineering. Final project including:
+          - Geological mapping
+          - Tectonic geomorphology study
 experiences:
+     - role: Teaching assistant 
+      time: 2019 - 2020
+      company: The University of Edinburgh
+      details: | Tutoring and demonstrator for the following course:
+          - Earth dynamics (SEM1 2020/2021)
+          - Geomorphology (SEM2 2019/2020)
+          - Global tectonic and rock cycle (SEM2 2019/2020)
+          - Eroding landscapes (SEM1 2019/2020)
+          - Earth dynamics (SEM1 2019/2020)
     - role: Hydrogeologist
       time: 2016 - 2018
       company: Indonesia's Ministry of Public Work and Housing, Jakarta
-      details: |
+      #details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -93,21 +91,21 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Team leader
-      time: 2016 - 2017
-      company: IndoGeo enterprise, Jakarta
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    #- role: Team leader
+    #  time: 2016 - 2017
+     # company: IndoGeo enterprise, Jakarta
+     # #details: |
+     #   Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+       # Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
+         # - Bullet point
+         # - Bullet point
     - role: Intern geologist
       time: 2014 - 2014
       company: Centre for Volcanology and Geological Hazard Mitigation, Bandung
-      details: |
+      #details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -117,72 +115,75 @@ experiences:
           - Bullet point
 projects:
     title: Projects
-    intro: >
+    #intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: East Natuna Basin Summary and atlas drawing with IndoGeo enterprise.
+        time: 2016-2017
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Hydrogeological study of the Bandung metropolitan area.
+        time: 2015-2016
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Manganese exploration with resistivity survey.
+        Time: 2013
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      #- title: Delta
+        #link: "#"
+       #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publications and proceedings
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Article which has been published in a journal, proceedings and submitted work.
     papers:
-      - title: The Art of Computer Programming
+      - title: Progressive evolution of thrust fold topography in the frontal Himalaya
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Wahyudi, D.R., H.D. Sinclair, S.M. Mudd.
+        conference: "*Geomorphology* (submitted work)."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Assessing Geothermal Prospectivity Using Thermal and Optical Remote Sensing Case Study: Mt. Guntur, West Java, Indonesia."
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Anugerah, Oktya W., M. Aufaristama, Aditya Lesmana, Angga Apriansyah, Donny R. Wahyudi
+        conference: "Indonesian Asscotioation of Geophysicists. Yogyakarta, Indonesia. (2016)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Kontrol  Morfotektonik Terhadap Gerakan Tanah di Daerah Malalak Sumatera Barat
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Wahyudi, D.R., Sumaryono, E. Sukiyah, D. Muslim, A.R. Darana
+        conference: "Journal of Environment and Geological Hazard Indonesia. Vol. 6, 229-240. (2015)"
+        
+       -title: "Control morphology to the landslide Induced Earthquake: Case Study Padang Pariaman, Sumatra."
+        authors: Sumaryono, Y.D. Triana, S. Hidayati, D.R. Wahyudi, D. Muslim, N. Sulaksana
+        conference: "10th IAEG Conference. Kyoto, Japan. (2015)."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 25%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript
+        level: 25%
 
-      - name: Angular
-        level: 98%
+      - name: R
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: GIS
+        level: 90%
 
-      - name: Ruby on Rails
+      - name: LSDTopoTools
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
